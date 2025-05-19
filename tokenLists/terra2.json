@@ -909,7 +909,7 @@
     "originChainId": "cosmoshub-4"
   },
   {
-    "protocol": "BNB (Axelar)",
+    "protocol": "wBNB (Axelar)",
     "symbol": "wBNB.axl",
     "token": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bnb.svg",
