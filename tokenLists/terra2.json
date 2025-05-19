@@ -721,7 +721,7 @@
   },
   {
     "protocol": "Wrapped BNB (Wormhole)",
-    "symbol": "wBNB",
+    "symbol": "wBNB.wh",
     "token": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/wBNB.png",
     "decimals": 8,
@@ -896,6 +896,7 @@
     "token": "ibc/20850C646CDDDC2270E9BBDB08558B5FEE57B647EC6827F41096AABFD8A0471B",
     "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/eth.svg",
     "decimals": 18,
+    "coingeckoId": "weth",
     "originChainId": "cosmoshub-4"
   },
   {
@@ -906,5 +907,15 @@
     "decimals": 8,
     "coingeckoId": "wrapped-bitcoin",
     "originChainId": "cosmoshub-4"
+  },
+  {
+    "protocol": "BNB (Axelar)",
+    "symbol": "wBNB.axl",
+    "token": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/bnb.svg",
+    "decimals": 18,
+    "coingeckoId": "wbnb",
+    "originDenom": "wbnb-wei",
+    "originChainId": "axelar-dojo-1"
   }
 ]
